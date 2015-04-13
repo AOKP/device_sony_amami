@@ -1,5 +1,5 @@
 # Initialise device config
-$(call inherit-product, device/sony/honami/full_honami.mk)
+$(call inherit-product, device/sony/amami/full_amami.mk)
 
 # Inherit AOKP common Phone stuff.
 $(call inherit-product, vendor/aokp/configs/common.mk)
